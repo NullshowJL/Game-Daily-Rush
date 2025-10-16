@@ -1,0 +1,5 @@
+jac 80
+kat 70
+aaa 60
+jac 20
+jac 0
